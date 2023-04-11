@@ -3,7 +3,6 @@
 namespace App\Http\Controllers;
 use App\Traits\ApiResponser;
 use Illuminate\Http\Request;
-use \App\Models\Author;
 use Illuminate\Http\Response;
 use App\Services\AuthorService;
 
